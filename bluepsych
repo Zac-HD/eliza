@@ -1,4 +1,4 @@
-#!bash
+#!/bin/bash
 cd doctor_bbn_lisp_1966
 perl bbnlisp.pl -doctor66 -load bbnlib66.lisp -load doctor.ascii -load scrip.ascii
 
